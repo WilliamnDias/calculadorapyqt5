@@ -1,2 +1,0 @@
-# calculadorapyqt5
-Calculadora
